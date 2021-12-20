@@ -7,7 +7,7 @@
 
   Deploy feito na Google Cloud, somente para estudos e testes. Clicar no vídeo para o link.
 
-<p align='center'><a href='https://agenda.pauloricardoma.com.br'><img src='https://github.com/pauloricardoma/imagens/blob/main/projeto-escola.gif?raw=true'></a></p>
+<p align='center'><a href='https://projetoescola.pauloricardoma.com.br'><img src='https://github.com/pauloricardoma/imagens/blob/main/projeto-escola.gif?raw=true'></a></p>
 
 <h4>🛠 Tecnologias</h4>
 
